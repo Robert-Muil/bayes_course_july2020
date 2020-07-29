@@ -1,4 +1,4 @@
-name: bayes_course
+name: bayes_course_2020
 
 channels:
   - conda-forge
